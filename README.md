@@ -16,12 +16,12 @@ The aim of this task is to analyze a phishing email to identify suspicious eleme
 
 ## 📂 Files Included:
 
-1. phishing_sample.txt` – Sample phishing email content.
-2. phishing_email_analysis_report.docx` – Full report with details on sender, links, attachment, tone, and indicators.
+1. phishing_sample.txt – Sample phishing email content.
+2. phishing_email_analysis_report.docx – Full report with details on sender, links, attachment, tone, and indicators.
 3. Screenshot of header analysis using MxToolbox.
 4. Screenshot of simulated link analysis using VirusTotal.
 5. Screenshot of simulated attachment analysis using VirusTotal.
-6. README.txt` – This file.
+6. README.txt – This file.
 
 ---
 
